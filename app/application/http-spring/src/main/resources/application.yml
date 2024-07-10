@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: restapitemplate
+
+server:
+  port: 8080
+  servlet:
+    context-path: /restapitemplate/v1
+
+integration:
+  viacep:
+    url: https://viacep.com.br/ws
+    endpoint: /{cep}/json

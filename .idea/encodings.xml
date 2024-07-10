@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/application/http-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/application/http-spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/datastore/h2-database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/integration/viacep/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/service-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/service-tests/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
