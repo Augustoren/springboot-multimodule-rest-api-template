@@ -1,0 +1,3 @@
+api\rest\model\Endereco$EnderecoBuilder.class
+api\rest\model\Endereco.class
+api\rest\port\integration\ViacepIntegration.class
