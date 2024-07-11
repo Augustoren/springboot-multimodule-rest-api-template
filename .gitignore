@@ -1,3 +1,125 @@
+Skip to content
+
+Search Gists
+Search...
+All gists
+Back to GitHub
+@fedir
+fedir/.gitignore
+Forked from Avinashachu007/.gitignore
+Last active yesterday • Report abuse
+Code
+Revisions
+5
+Stars
+46
+Forks
+16
+Clone this repository at &lt;script src=&quot;https://gist.github.com/fedir/cd58012d42c8c1edbb3fff611de6c2f6.js&quot;&gt;&lt;/script&gt;
+<script src="https://gist.github.com/fedir/cd58012d42c8c1edbb3fff611de6c2f6.js"></script>
+.gitignore for Java, Maven, Spring Boot - Eclipse, Netbeans, IntelliJ IDEA, Visual Studio Code
+.gitignore
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+
+# Created by https://www.gitignore.io/api/git,java,maven,eclipse,windows
+
+### Eclipse ###
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+### Eclipse Patch ###
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Annotation Processing
+.apt_generated
+
+.sts4-cache/
+
+### Git ###
+# Created by git for backups. To disable backups in Git:
+# $ git config --global mergetool.keepBackup false
+*.orig
+
+# Created by git when using merge tools for conflicts
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+### Java ###
 # Compiled class file
 *.class
 
@@ -21,4 +143,156 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-replay_pid*
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Some additional ignores (sort later)
+*.DS_Store
+*.sw?
+.#*
+*#
+*~
+.classpath
+.project
+.settings
+bin
+build
+target
+dependency-reduced-pom.xml
+*.sublime-*
+/scratch
+.gradle
+README.html
+*.iml
+.idea
+.exercism
+@pereyrahugor
+pereyrahugor commented on Jul 1, 2022
+Just what I was looking for.
+Thank you very much
+
+@ahmedMubarak2024
+ahmedMubarak2024 commented on Oct 12, 2022
+thanks for the asset
+
+@vishnums1980
+vishnums1980 commented on Oct 20, 2022
+Thanks
+
+@schakraborthy
+schakraborthy commented on Oct 29, 2022
+Thanks.
+
+@AAdewunmi
+AAdewunmi commented on Jan 4, 2023
+Good job 👍
+
+@onjik
+onjik commented on Mar 19, 2023
+thank you
+
+@csankhala
+csankhala commented on May 8, 2023 •
+What are your thoughts for adding below directory?
+out/
+
+@csankhala
+csankhala commented on May 8, 2023
+.gitignore for Java, Maven, Spring Boot - Eclipse, Netbeans, IntelliJ IDEA, Visual Studio, Micronaut
+Without any duplicates:
+https://github.com/csankhala/CustomerService/blob/0cedb701e83530d521d005ae6ccf0add20873043/.gitignore
+
+@bahmanheydarinejad
+bahmanheydarinejad commented on Oct 5, 2023
+Thanks dear 👍
+
+@emmacv
+emmacv commented on Dec 21, 2023
+Thanks a lot!
+
+@gersonja
+gersonja commented on Feb 14
+Muchas gracias... 👍
+
+@oliveiraLuan
+oliveiraLuan commented on Apr 18
+Obrigado!!!
+
+@DejanPerovic
+DejanPerovic commented on May 15
+I need this. Thanks!
+
+@NeihTzxc
+NeihTzxc commented on Jun 7
+Thank you
+
+@Augustoren
+Comment
+
+Leave a comment
+
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
