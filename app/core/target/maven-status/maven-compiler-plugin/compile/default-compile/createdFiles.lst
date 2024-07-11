@@ -1,3 +1,7 @@
-api\rest\model\Endereco$EnderecoBuilder.class
-api\rest\model\Endereco.class
-api\rest\port\integration\ViacepIntegration.class
+br\com\augustoren\core\port\integration\ViacepIntegration.class
+br\com\augustoren\core\model\Address$AddressBuilder.class
+br\com\augustoren\core\port\command\GetAddressCommand.class
+br\com\augustoren\core\model\response\AddressResponse.class
+br\com\augustoren\core\usecase\search\SearchAddress.class
+br\com\augustoren\core\model\Address.class
+br\com\augustoren\core\model\response\AddressResponse$AddressResponseBuilder.class

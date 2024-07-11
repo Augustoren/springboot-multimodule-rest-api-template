@@ -1,5 +1,5 @@
-restapitemplate\api\ViacepApi.class
-restapitemplate\mapper\ViacepMapperImpl.class
-restapitemplate\mapper\ViacepMapper.class
-restapitemplate\dto\EnderecoDTO.class
-restapitemplate\operation\ViacepOperation.class
+br\com\augustoren\viacep\dto\AddressDTO.class
+br\com\augustoren\viacep\mapper\ViacepMapperImpl.class
+br\com\augustoren\viacep\api\ViacepApi.class
+br\com\augustoren\viacep\mapper\ViacepMapper.class
+br\com\augustoren\viacep\operation\ViacepOperation.class

@@ -1,4 +1,4 @@
-C:\www\springboot-multimodule-rest-api-template\app\integration\viacep\src\main\java\restapitemplate\api\ViacepApi.java
-C:\www\springboot-multimodule-rest-api-template\app\integration\viacep\src\main\java\restapitemplate\dto\EnderecoDTO.java
-C:\www\springboot-multimodule-rest-api-template\app\integration\viacep\src\main\java\restapitemplate\mapper\ViacepMapper.java
-C:\www\springboot-multimodule-rest-api-template\app\integration\viacep\src\main\java\restapitemplate\operation\ViacepOperation.java
+C:\www\springboot-multimodule-rest-api-template\app\integration\viacep\src\main\java\br\com\augustoren\viacep\api\ViacepApi.java
+C:\www\springboot-multimodule-rest-api-template\app\integration\viacep\src\main\java\br\com\augustoren\viacep\dto\AddressDTO.java
+C:\www\springboot-multimodule-rest-api-template\app\integration\viacep\src\main\java\br\com\augustoren\viacep\mapper\ViacepMapper.java
+C:\www\springboot-multimodule-rest-api-template\app\integration\viacep\src\main\java\br\com\augustoren\viacep\operation\ViacepOperation.java

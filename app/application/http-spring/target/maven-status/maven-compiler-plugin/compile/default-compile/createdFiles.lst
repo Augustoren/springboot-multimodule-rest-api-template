@@ -1,2 +1,7 @@
-api\rest\App.class
-api\rest\AppConfiguration.class
+br\com\augustoren\application\AppConfiguration.class
+br\com\augustoren\application\App.class
+br\com\augustoren\application\dto\response\GetAddressResponseDto$GetAddressResponseDtoBuilder.class
+br\com\augustoren\application\mapper\GetAddressResponseMapper.class
+br\com\augustoren\application\mapper\GetAddressResponseMapperImpl.class
+br\com\augustoren\application\controller\AddressGetController.class
+br\com\augustoren\application\dto\response\GetAddressResponseDto.class

@@ -9,7 +9,7 @@
         <version>3.3.1</version>
         <relativePath/>
     </parent>
-    <groupId>restapitemplate</groupId>
+    <groupId>br.com.augustoren</groupId>
     <artifactId>restapitemplate</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>

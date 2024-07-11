@@ -1,2 +1,5 @@
-C:\www\springboot-multimodule-rest-api-template\app\application\http-spring\src\main\java\api\rest\App.java
-C:\www\springboot-multimodule-rest-api-template\app\application\http-spring\src\main\java\api\rest\AppConfiguration.java
+C:\www\springboot-multimodule-rest-api-template\app\application\http-spring\src\main\java\br\com\augustoren\application\App.java
+C:\www\springboot-multimodule-rest-api-template\app\application\http-spring\src\main\java\br\com\augustoren\application\AppConfiguration.java
+C:\www\springboot-multimodule-rest-api-template\app\application\http-spring\src\main\java\br\com\augustoren\application\controller\AddressGetController.java
+C:\www\springboot-multimodule-rest-api-template\app\application\http-spring\src\main\java\br\com\augustoren\application\dto\response\GetAddressResponseDto.java
+C:\www\springboot-multimodule-rest-api-template\app\application\http-spring\src\main\java\br\com\augustoren\application\mapper\GetAddressResponseMapper.java
